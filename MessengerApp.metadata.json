@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"5bc0b25ee4aa465893ad425b6b800964","collectionName":"MessengerApp"}
